@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import localFont from "next/font/local";
 import { ThemeProvider } from "@/providers/ThemeProvider";
 import { notFound } from "next/navigation";
 import { getMessages } from "next-intl/server";
